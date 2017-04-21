@@ -1,3 +1,6 @@
+[PART 2/2] MEAN Walkthrough - CRUD Operations on Users, a full walkthrough building the project from start to end with commentary during build and live debugging. 
+Angular v4, Node v6, Express v4, Mongoose v4, Mongo v3 - https://www.youtube.com/watch?v=7ouQlV6Ms78&t=4s&index=2&list=PLQKjTsMwsjZenb2lye1ibCPUp0r8aCjk9
+
 # UsersApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
